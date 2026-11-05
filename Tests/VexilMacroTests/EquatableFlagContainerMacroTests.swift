@@ -13,8 +13,8 @@
 
 #if canImport(VexilMacros)
 
-import SwiftSyntaxMacros
 import SwiftSyntaxMacroExpansion
+import SwiftSyntaxMacros
 import SwiftSyntaxMacrosTestSupport
 import VexilMacros
 import XCTest
